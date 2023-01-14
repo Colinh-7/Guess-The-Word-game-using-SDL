@@ -1,0 +1,19 @@
+RÈGLES DU JEU:
+Mode 1 joueur :
+- Classique : Le joueur choisit la langue de son choix, les images sont aléatoires. Le temps est limité à 10 secondes par image.
+- Aléatoire : La langue et les images sont aléatoires. Le temps est limité à 10 secondes par image.
+- Entrainement : Le joueur choisit la langue, puis peut parcourir toutes les images autant de fois qu'il le veut. S'il entre une réponse correcte, le jeu passe à l'image suivante, sinon il peut recommencer. Il n'y pas de temps dans ce mode.
+
+Mode 2 joueurs :
+- Classique : À tour de rôle, chaque joueur choisit l'image du joueur suivant. Le temps par image est limité à 10 secondes. La langue est choisie au lancement du jeu.
+- Aléatoire : Les images et les langues sont aléatoires. Les 2 joueurs jouent à tour de rôle. Le temps est limité à 10 secondes par images.
+
+SCORE:
++ de 84% de bonne réponse -> médaille d'or.
++ de 66% de bonne réponse -> médaille d'argent.
++ de 50%  de bonne réponse -> médaille de bronze.
+En dessous -> pas de médaille.
+
+AUTRES:
+Les mots entrés doivent être au singlulier de préférence et sans accent ni espace. (Le pluriel fonctionne en fançais mais pas dans les autres langues).
+
